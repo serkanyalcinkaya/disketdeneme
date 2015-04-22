@@ -1,1 +1,2 @@
 # disketdeneme
+merhaba ben serkan
